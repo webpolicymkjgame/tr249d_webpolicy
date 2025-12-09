@@ -88,7 +88,7 @@ function HomePage() {
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
             <a href="mailto: henricsanyu@gmail.com"> henricsanyu@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠  Thôn Bình Tây Hoằng Thịnh, Hoằng Hóa, Thanh Hóa Thanh Hoa - 440000
+              🏠  Kyanakibi, Kyango Ward Bukomansimbi Town - Uganda (UG)
             </span>
           </p>
         </div>
